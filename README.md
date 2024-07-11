@@ -1,8 +1,22 @@
 # Visão Computacional com GoCV
 
-Repositório no Github: 
+### Pre-requisites
+Instale o pacote GoCV:
+```shell
+go get -u -d gocv.io/x/gocv
+```
 
-https://github.com/wheslleyrimar/visao-computacional-gocv
+
+Instale o OpenCV. Aqui está um exemplo de como instalar pelo MacOS:
+```shell
+brew install opencv
+```
+Você pode consultar no repositório oficial da biblioteca GoCV como fazer a instalação do OpenCV para Windows, Linux e MacOS, clicando no link abaixo:
+
+[How to install](https://github.com/hybridgroup/gocv?tab=readme-ov-file#how-to-install)
+
+### Explicação do código
+A partir deste ponto, temos a explicação sobre o código:
 
 ### Pacote principal
 
